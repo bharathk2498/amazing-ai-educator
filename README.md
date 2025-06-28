@@ -3,7 +3,7 @@
 A fully static AI trend dashboard built with HTML/CSS — hosted on GitHub Pages. Showcases 5,000+ AI innovations, global job impact, and market shifts with a stunning visual interface.
 
 ### 📸 Preview
-
+![AI Dashboard](https://github.com/bharathk2498/amazing-ai-educator/main/THEAMAZINGAIEDUCATOR.png)
 ## 🔗 Live Demo
 👉 https://bharathk2498.github.io/amazing-ai-educator/
 
